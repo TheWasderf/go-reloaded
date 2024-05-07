@@ -1,0 +1,1 @@
+go run . sample.txt result.txt
